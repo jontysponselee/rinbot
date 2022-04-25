@@ -1,5 +1,6 @@
 .env
 fileloader.ts
+.idea
 
 # Folder made by Kwik db to watch guild command versions
 db/
