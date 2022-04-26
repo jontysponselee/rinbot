@@ -30,8 +30,8 @@ bot.gateway.presence = {
   status: "online",
   activities: [
     {
-      name: "Discordeno is Best Lib",
-      type: ActivityTypes.Game,
+      name: "best bot awards",
+      type: ActivityTypes.Competing,
       createdAt: Date.now(),
     },
   ],
